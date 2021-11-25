@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Sirawit Tantikul
 
-You can use the [editor on GitHub](https://github.com/sun12345678910/107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![alt text](https://sv1.picz.in.th/images/2021/11/25/6tE3bv.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Markdown
+I'm studying at Data Science and Innovation, Thammasat University. Now i'm interesting in Data Science, Moreover i'm also interesting Investment, Blockchain and Politics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+
+- Thammasat University - Data Science and Innovation
+
+### Experience
+
+- Highschool Engineering Camp at National Taiwan University
+- 11h grade Biology competition
+
+### Personality
+
+INFP (A Mediator) is someone who possesses the Introverted, Intuitive, Feeling, and Prospecting personality traits. These rare personality types tend to be quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do.
+
+### Hobby
+
+- Basketball
+- Gaming
+- Listen to music
+
+### Contact
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Tel: +66944579696
+- E-mail: sirawit.tan@dome.tu.ac.th
+- Instagram: sunnnsrw
+- Address: 97/67 Rat Phatthana 25, Rat Phatthana, Saphan Sung, Bangkok, Thailand 10240
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sun12345678910/107/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
