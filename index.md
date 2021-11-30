@@ -31,7 +31,7 @@ INFP (A Mediator) is someone who possesses the Introverted, Intuitive, Feeling, 
 
 - Tel: +66944579696
 - E-mail: sirawit.tan@dome.tu.ac.th
-- Instagram: sunnnsrw
+- Instagram: sunnsrw
 - Address: 97/67 Rat Phatthana 25, Rat Phatthana, Saphan Sung, Bangkok, Thailand 10240
 
 ```
